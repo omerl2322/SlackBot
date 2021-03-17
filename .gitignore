@@ -1,0 +1,8 @@
+*.xml
+*.pyc
+.idea/
+*.iml
+__pycache__/
+*.xlsx
+*.csv
+.idea

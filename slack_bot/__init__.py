@@ -1,0 +1,2 @@
+slack_token = 'xoxb-1860235770773-1883499424017-dz8QEeRjUMa7LU8LVREPf7hm'
+signing_secret = '01464308abf6e6737eeb66592a88b0f0'
